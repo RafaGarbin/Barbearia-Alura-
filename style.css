@@ -21,7 +21,7 @@ nav {
     }
 nav li{
     display: inline;
-    margin:  15px;}
+    margin:  20px;}
 
 nav a{
     text-transform: uppercase;
@@ -33,7 +33,7 @@ nav a{
 nav a:hover {
     color: #a0e853;
     text-decoration: underline;}
-	
+
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
