@@ -94,3 +94,9 @@ main{
 form{
     margin: 40px 0;
 }
+form label {
+    display: block;
+}
+form input {
+    display: block;
+}
