@@ -130,3 +130,16 @@ form label, form legend {
     transform: scale(1.1);
 
  }
+table{
+    margin: 20px 0 40px;
+}
+thead{
+    background: #047b14;
+    color: white;
+    font-weight: bold;
+}
+td, th{
+    border: 1px solid #0a2201;
+    padding: 15px 8px;
+
+}
