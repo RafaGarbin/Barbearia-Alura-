@@ -132,6 +132,7 @@ form label, form legend {
  }
 table{
     margin: 20px 0 40px;
+    text-align: center;
 }
 thead{
     background: #047b14;
